@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 
 [lib]
-name = "tui-lib"
+name = "tui_lib"
 path = "src/lib/mod.rs"
 
 [dependencies]
