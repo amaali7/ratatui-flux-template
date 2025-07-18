@@ -1,7 +1,7 @@
 [template]
 cargo_generate_version = ">=0.18"
 
-[placeholders.project-name]
+[placeholders.app-name]
 type = "string"
 prompt = "Project name (kebab-case)?"
 regex = "^[a-z0-9-]+$"
